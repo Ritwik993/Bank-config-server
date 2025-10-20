@@ -1,0 +1,12 @@
+
+build:
+  version: 6.0
+
+cards:
+  message: "Welcome to Bharat Bank Card API data"
+  contactDetails:
+    name: "Ritwik Bhagat"
+    email: "ritwik@gmail.com"
+  onCallSupport:
+    - (555)465515
+    - (225)541665

@@ -1,0 +1,12 @@
+
+build:
+  version: 7.0
+
+cards:
+  message: "Welcome to QA Bharat Bank Card API data"
+  contactDetails:
+    name: "Rahul Das"
+    email: "rahul@gmail.com"
+  onCallSupport:
+    - (555)465515
+    - (225)541665

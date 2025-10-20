@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Bharat Bank Prod API data"
+  contactDetails:
+    name: "Sachin Bhagat"
+    email: "sachin@gmail.com"
+  onCallSupport:
+    - (555)4154571
+    - (225)4516851

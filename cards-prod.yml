@@ -1,0 +1,12 @@
+
+build:
+  version: 14.0
+
+cards:
+  message: "Welcome to Prod Bharat Bank Card API data"
+  contactDetails:
+    name: "Sakshi Kumari"
+    email: "sakshi@gmail.com"
+  onCallSupport:
+    - (555)465515
+    - (225)541665

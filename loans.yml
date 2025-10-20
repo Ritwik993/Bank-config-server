@@ -1,0 +1,12 @@
+
+build:
+  version: "4.0"
+
+loans:
+  message: "Welcome to loans api Information data"
+  contactDetails:
+    name: "Ritwik Bhagat"
+    email: "ritwik123@gmail.com"
+  onCallSupport:
+    - (224)626586
+    - (789)553923

@@ -1,0 +1,12 @@
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Bharat Bank QA API data"
+  contactDetails:
+    name: "Shyam Bhagat"
+    email: "shyam@gmail.com"
+  onCallSupport:
+    - (555)165422
+    - (225)155393

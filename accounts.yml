@@ -1,0 +1,12 @@
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Bharat Bank local API data"
+  contactDetails:
+    name: "Ritwik Bhagat"
+    email: "ritwik@gmail.com"
+  onCallSupport:
+    - (555)465515
+    - (225)541665
