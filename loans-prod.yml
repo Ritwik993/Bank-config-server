@@ -3,7 +3,7 @@ build:
   version: "5.0"
 
 loans:
-  message: "Welcome to Production loans api Information data"
+  message: "Welcome to Product loans api Information data"
   contactDetails:
     name: "Mukesh Kumar"
     email: "mukeshrtw@gmail.com"
