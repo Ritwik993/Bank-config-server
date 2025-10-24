@@ -3,7 +3,7 @@ build:
   version: 14.0
 
 cards:
-  message: "Welcome to Production Bharat Bank Card API data"
+  message: "Welcome to webhook Bharat Bank Card API data"
   contactDetails:
     name: "Sakshi Kumari"
     email: "{cipher}348c95e25cafff55512de60c90d3e100002b5a7040c91e9481dd2ec06daeebd43084931bafbb6fa1136f29f5dee9ea68"
