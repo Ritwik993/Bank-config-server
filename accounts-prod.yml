@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Bharat Bank Production API data"
+  message: "Welcome to Bharat Bank webhook API data"
   contactDetails:
     name: "Sachin Bhagat"
     email: "sachin@gmail.com"
